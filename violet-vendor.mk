@@ -989,7 +989,6 @@ PRODUCT_PACKAGES += \
     HotwordEnrollmentXGoogleHEXAGON \
     DeviceInfo \
     QtiTelephonyService \
-    datastatusnotification \
     embms \
     imssettings \
     dpmserviceapp \
